@@ -16,5 +16,3 @@ The parallel implementation of the naive bayes algorithm was made using parallel
 
 3. With the probabilities calculated in the last step, we can multiply the values for the words in a text in relation to each class and classify it as spam o ham, depending of the mayor value.
 
-
-<p align="center"> <img src="https://lh3.googleusercontent.com/proxy/p__bA_vYdpy_D4sCmkD-Wq8pBxEql8FE57BmROuRe76tM2DGoclG96i2sOHGeqY6MRB0nwIREP6fZ2SujXyee-51A-Y9ZquFtyXPSnmzGELtBTTwt7mLffSPHaYShzM"> </p>
